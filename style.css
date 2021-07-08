@@ -1,0 +1,45 @@
+#user-input{
+    border: 1px red gray;
+    display: block;
+    line-height: 2;
+    padding: 2px;
+    width: 40%;
+    margin-top: 150px;
+    margin-left: 230px;
+    box-shadow: 10px 10px 10px 5px gray ;
+    justify-content: center;
+    text-align: center;
+    border-radius: 8px;
+    background-color:lightsteelblue;
+}
+
+#uname{
+    margin-top: 20px;
+    padding-left: 20px;
+    border-radius: 8px;
+}
+
+#pass{
+    padding-left: 20px;
+    margin-left: 12px;
+    border-radius: 8px;
+}
+
+.btn{
+    justify-content: center;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:blue;
+    color: #fff;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: large;
+}
+
+.btn:hover{
+    background-color: cornflowerblue;
+    cursor: pointer;
+}
+
